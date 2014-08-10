@@ -4,7 +4,7 @@
   <title><![CDATA[Marco Cordero]]></title>
   <link href="http://marcocordero.github.io/atom.xml" rel="self"/>
   <link href="http://marcocordero.github.io/"/>
-  <updated>2014-08-09T21:37:30-07:00</updated>
+  <updated>2014-08-09T21:50:08-07:00</updated>
   <id>http://marcocordero.github.io/</id>
   <author>
     <name><![CDATA[Marco Cordero]]></name>
@@ -14,11 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Testing Out My New Jekyll Blog.]]></title>
+    <title type="html"><![CDATA[Testing Out Octopress/Jekyll.]]></title>
     <link href="http://marcocordero.github.io/blog/2014/08/09/testing-out-my-new-jekyll-blog/"/>
     <updated>2014-08-09T21:09:49-07:00</updated>
     <id>http://marcocordero.github.io/blog/2014/08/09/testing-out-my-new-jekyll-blog</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>I have come to dislike most blogging platforms because they seem overly complicated, bloated, and are difficult to reign in aesthetically. So I gave this a try. For the curious: [<a href="http://www.octopress.com">http://www.octopress.com</a> Octopress] | [<a href="http://www.jekyllrb.com">http://www.jekyllrb.com</a> Jekyll]</p>
 ]]></content>
   </entry>
   
